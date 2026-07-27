@@ -1,0 +1,14 @@
+# Numerical Computing
+numpy>=1.24
+scipy>=1.10
+
+# Data Visualization
+matplotlib>=3.8
+
+# Fuzzy Logic
+scikit-fuzzy>=0.4.2
+
+# Jupyter Environment
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.0
