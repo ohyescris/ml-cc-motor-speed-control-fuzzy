@@ -1,5 +1,8 @@
 # Fuzzy Logic Speed Controller for DC Motor Based on PI Control
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ohyescris/ml-cc-motor-speed-control-fuzzy/blob/main/LICENSE) 
+
+
 > Intelligent speed control of a DC motor using a Fuzzy Logic Controller designed from a conventional PI controller.
 
 ---
